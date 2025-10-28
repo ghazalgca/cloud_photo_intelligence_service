@@ -4,5 +4,4 @@ uvicorn
 google-genai
 qdrant-client
 sentence-transformers
-huggingface-hub
 pydantic
