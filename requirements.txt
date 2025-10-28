@@ -3,7 +3,6 @@ fastapi
 uvicorn
 google-genai
 qdrant-client
-torch
 sentence-transformers
 huggingface-hub
 pydantic
