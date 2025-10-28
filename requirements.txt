@@ -1,0 +1,14 @@
+asyncio
+dotenv==0.9.9
+fastapi==0.120.0
+google-genai==1.46.0
+huggingface-hub==0.34.0
+protobuf==5.26.1
+pydantic==2.12.3
+qdrant-client==1.15.1
+sentence-transformers==5.1.2
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==0.17.0
+transformers==4.57.1
+uvicorn==0.38.0
