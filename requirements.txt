@@ -1,11 +1,9 @@
-asyncio
-dotenv
+python-dotenv
 fastapi
 uvicorn
 google-genai
 qdrant-client
-torch==2.2.0
+torch
 sentence-transformers
 huggingface-hub
-protobuf==5.26.1
 pydantic
